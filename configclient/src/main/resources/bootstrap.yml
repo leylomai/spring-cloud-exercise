@@ -1,0 +1,14 @@
+server:
+  port: 2001
+spring:
+  application:
+    name: config-client
+  cloud:
+    config:
+      enabled: true
+      uri: http://localhost:1201/
+      profile: default
+      label: master
+      #安全验证
+      username: user
+      password: 123

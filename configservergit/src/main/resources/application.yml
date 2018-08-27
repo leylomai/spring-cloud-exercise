@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/leylomai/primary.git
+          username: leylomai
+          password: zhanlele&01
+          basedir: D:\SpringCloudConfig
+server:
+  port: 1201
+#安全验证
+security:
+  user:
+    name: user
+    password: 123
+  basic:
+    enabled: false
