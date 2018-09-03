@@ -8,21 +8,26 @@
         <outputRelativeToContentRoot value="true" />
         <module name="configclient" />
         <module name="configservergit" />
+        <module name="eureka-client2" />
         <module name="eureka-consumer-feign" />
         <module name="eureka-consumer-ribbon" />
+        <module name="eureka-consumer-ribbon-hystrix" />
         <module name="eurekaclient" />
         <module name="eurekaconsumer" />
         <module name="spring-cloud-eureka" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="configclient" target="1.6" />
-      <module name="configservergit" target="1.6" />
-      <module name="eureka-consumer-feign" target="1.6" />
-      <module name="eureka-consumer-ribbon" target="1.6" />
-      <module name="eurekaclient" target="1.6" />
-      <module name="eurekaconsumer" target="1.6" />
-      <module name="spring-cloud-eureka" target="1.6" />
+      <module name="configclient" target="1.8" />
+      <module name="configservergit" target="1.8" />
+      <module name="eureka-client2" target="1.8" />
+      <module name="eureka-consumer-feign" target="1.8" />
+      <module name="eureka-consumer-ribbon" target="1.8" />
+      <module name="eureka-consumer-ribbon-hystrix" target="1.8" />
+      <module name="eurekaclient" target="1.8" />
+      <module name="eurekaconsumer" target="1.8" />
+      <module name="spring-cloud-eureka" target="1.8" />
+      <module name="spring-cloud-exercise" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

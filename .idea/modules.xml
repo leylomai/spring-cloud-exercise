@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/configclient/configclient.iml" filepath="$PROJECT_DIR$/configclient/configclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/configservergit/configservergit.iml" filepath="$PROJECT_DIR$/configservergit/configservergit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaclient2/eureka-client2.iml" filepath="$PROJECT_DIR$/eurekaclient2/eureka-client2.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaconsumerfeign/eureka-consumer-feign.iml" filepath="$PROJECT_DIR$/eurekaconsumerfeign/eureka-consumer-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaconsumerribbon/eureka-consumer-ribbon.iml" filepath="$PROJECT_DIR$/eurekaconsumerribbon/eureka-consumer-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaconsumerribbonhystrix/eureka-consumer-ribbon-hystrix.iml" filepath="$PROJECT_DIR$/eurekaconsumerribbonhystrix/eureka-consumer-ribbon-hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaclient/eurekaclient.iml" filepath="$PROJECT_DIR$/eurekaclient/eurekaclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaconsumer/eurekaconsumer.iml" filepath="$PROJECT_DIR$/eurekaconsumer/eurekaconsumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudeureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/springcloudeureka/spring-cloud-eureka.iml" />

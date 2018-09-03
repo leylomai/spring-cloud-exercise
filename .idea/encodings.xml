@@ -4,9 +4,11 @@
     <file url="file://$PROJECT_DIR$/configclient" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/configservergit" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eurekaclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaclient2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eurekaconsumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eurekaconsumerfeign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eurekaconsumerribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaconsumerribbonhystrix" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloudeureka" charset="UTF-8" />
   </component>
 </project>
